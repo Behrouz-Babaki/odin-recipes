@@ -1,0 +1,20 @@
+* {
+    font-family: sans-serif;
+}
+
+ol {
+    font-size: 24px;
+}
+
+ul {
+    font-size: 24px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+}
